@@ -1,5 +1,5 @@
 region: us-east-1
-s3_bucket_name: automation-101-cloudtrial 
+s3_bucket_name: <bucket-name>
 role_name: CloudTrailAutomation
-trail_name: aws-multi-account-cloudtrail-logs
-account_ids: "661075516689,717153733799,246624127786,433806445252"
+trail_name: <Trail-name>
+account_ids: "<account-ids>"
